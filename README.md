@@ -18,7 +18,7 @@ Crop Regions
 <br/>
     └─ Expiration Date → OCR / model-based extraction
 <br/>
-    ↓
+        ↓
 <br/>
 Postprocessing
 <br/>
