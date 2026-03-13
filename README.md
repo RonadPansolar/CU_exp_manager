@@ -6,6 +6,7 @@ Input Image
 <br>
 <br>
     ↓
+<br>
 YOLO Detection
 <br/>
   ↓
