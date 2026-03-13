@@ -8,7 +8,7 @@ Input Image
 <br/>
 YOLO Detection
 <br/>
-    ↓
+  ↓
 <br/>
 Crop Regions
 <br/>
