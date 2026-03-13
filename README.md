@@ -3,6 +3,7 @@ This project builds a deep-learning pipeline that automatically extracts barcode
 
 
 Input Image
+
     ↓
 
 YOLO Detection
